@@ -1,0 +1,7 @@
+{
+  "directory": "components/",
+  "shorthand-resolver": "git://github.com//.git",
+  "interactive": true,
+  "color": true,
+  "strict-ssl": false
+}
